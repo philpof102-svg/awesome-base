@@ -374,6 +374,8 @@ and more.
   better understand users, increase engagement, improve retention and drive
   growth.
 
+- **[MainStreet](https://avisradar-production.up.railway.app/mainstreet.html)**: Reputation oracle for onchain AI agents and ERC-20 tokens on Base. Returns BLOCK/CAUTION/PROCEED trust verdicts in <100ms via REST + MCP. Covers Virtuals agents, Clanker tokens, DEX launches (Aerodrome / UniswapV3 / BaseSwap), sniper detection, allowlist + denylist, wallet cluster analysis. EIP-712 signed verdicts, ERC-8004 registered.
+
 - **[Mnemonic](https://www.mnemonichq.com/)**: Build exceptional Web3
   experiences faster with Mnemonic – the NFT data, analytics, and insights
   provider for builders, brands, and enterprises creating in Web3.
